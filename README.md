@@ -171,7 +171,7 @@ AI/ML-driven enterprise service-desk with Conversational AI/Chatbot, Live-Agent 
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/indranil-sahu-2635831a1](https://www.linkedin.com/in/indranil-sahu-2635831a1/) |
+| 💼 LinkedIn | [linkedin.com/in/indranil-sahu](https://www.linkedin.com/in/indranil-sahu) |
 | 📧 Email | [sonusahu061@gmail.com](mailto:sonusahu061@gmail.com) |
 | 🐙 GitHub | [github.com/INDRANIL-SAHU](https://github.com/INDRANIL-SAHU) |
 
